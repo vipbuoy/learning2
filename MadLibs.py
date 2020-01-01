@@ -1,3 +1,4 @@
+#this code represents file handleing in python by performing basic funtion!
 my=open('Mad.txt','w')
 my.write('''The ADJECTIVE panda walked to the NOUN and then VERB. A nearby NOUN was
 unaffected by these events.''')#can be input by user

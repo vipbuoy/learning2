@@ -1,3 +1,4 @@
+#this code represents use of dictionary and basic function!
 def addToInventory(inventory, addedItems):
     for k in addedItems:
         inventory.setdefault(k,0)

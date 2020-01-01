@@ -1,3 +1,4 @@
+#this code represesnt a heart and how we can use 2-d list!
 grid = [['.', '.', '.', '.', '.', '.'],
         ['.', 'O', 'O', '.', '.', '.'],
         ['O', 'O', 'O', 'O', '.', '.'],

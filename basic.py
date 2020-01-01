@@ -1,4 +1,4 @@
-#very basic
+#this code contains basic commands and function in python!
 print("Hello!! World!!")
 print('What is your name?')
 Myname=input()

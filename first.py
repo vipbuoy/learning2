@@ -1,3 +1,4 @@
+#this code represents the use of exception handling in python!
 def collatz(number):
         if number%2==0:
             print(number//2)

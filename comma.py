@@ -1,3 +1,4 @@
+#this code represent use of funtion to join all values in list!
 def comma(value):
     st=''
     for i in value:
